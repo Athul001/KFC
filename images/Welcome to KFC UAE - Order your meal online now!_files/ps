@@ -1,0 +1,33 @@
+var om_app_pix = new Array();
+om_app_pix[0] = new Image();
+om_app_pix[0].src = "https://cm.g.doubleclick.net/pixel?google_nid=adara_dmp&google_hm=NDAxMjczMTk5MzE0Ng&google_sc";
+om_app_pix[1] = new Image();
+om_app_pix[1].src = "https://match.adsrvr.org/track/cmf/generic?ttd_pid=o456qfe&ttd_tpi=1";
+om_app_pix[2] = new Image();
+om_app_pix[2].src = "https://idsync.rlcdn.com/394499.gif?partner_uid=4012731993146";
+om_app_pix[3] = new Image();
+om_app_pix[3].src = "https://tag.adaraanalytics.com/ps/aasync?ckid=NDAxMjczMTk5MzE0NnwxNjY1NTE2MjMxNDIy";
+om_app_pix[4] = new Image();
+om_app_pix[4].src = "https://ad.doubleclick.net/ddm/activity/src=8835375;type=invmedia;cat=kfcrt0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?";
+om_app_pix[5] = new Image();
+om_app_pix[5].src = "https://i.ctnsnet.com/int/integration?pixel=66341905&nid=2142538&cont=i&gdpr_pd={GDPR_PD}&gdpr_consent={GDPR_CONSENT_85}";
+om_app_pix[6] = new Image();
+om_app_pix[6].src = "https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0Nzc3NDY2NS90LzI/url/https://tag.yieldoptimizer.com/ps/ps?t=i&p=4889&turn_id=$!{TURN_UUID}";
+om_app_pix[7] = new Image();
+om_app_pix[7].src = "https://dpm.demdex.net/ibs:dpid=22069&dpuuid=4012731993146";
+om_app_pix[8] = new Image();
+om_app_pix[8].src = "https://beacon.krxd.net/usermatch.gif?partner=adara&partner_uid=4012731993146";
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '2285025484888799');
+fbq('trackCustom', 'kv', {
+"key33218":"NDdlZ25kY3pvcWVlMmk4",
+"ckid":4012731993146,
+"group":2
+} );
